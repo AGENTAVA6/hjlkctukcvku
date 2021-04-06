@@ -1,0 +1,16 @@
+#one{
+margin-right: 800px;
+   }
+   #two{
+margin-right: 250px;
+      }
+   #three{
+margin-left: 800px;
+
+      }
+      img{
+          border-radius: 150px;
+      }
+span, h1, h2 , h3, h4, h5{
+  color: aqua;
+}
